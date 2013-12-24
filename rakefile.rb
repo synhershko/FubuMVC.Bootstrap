@@ -12,16 +12,16 @@ end
 
 FubuRake::Solution.new do |sln|
 	sln.compile = {
-		:solutionfile => 'src/FubuMVC.TwitterBootstrap.sln'
+		:solutionfile => 'src/FubuMVC.Bootstrap.sln'
 	}
 				 
 	sln.assembly_info = {
-		:product_name => "FubuMVC.TwitterBootstrap",
+		:product_name => "FubuMVC.Bootstrap",
 		:copyright => 'Copyright 2012-2013 Jeremy D. Miller, Josh Arnold, et al. All rights reserved.'
 	}
 	
 	sln.ripple_enabled = true
 	sln.fubudocs_enabled = true
 	
-	sln.assembly_bottle 'FubuMVC.TwitterBootstrap'
+	sln.assembly_bottle 'FubuMVC.Bootstrap'
 end

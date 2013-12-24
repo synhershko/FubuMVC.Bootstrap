@@ -1,4 +1,4 @@
-FubuMVC.TwitterBootstrap
+FubuMVC.Bootstrap
 ========================
 
-Quickly integrate Twitter Bootstrap into your FubuMVC application
+Quickly integrate Bootstrap 3 into your FubuMVC application

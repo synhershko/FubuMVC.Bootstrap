@@ -1,0 +1,11 @@
+﻿<viewdata model="TwitterBootstrapDemonstrator.HomeViewModel"/>
+<content:title>FubuMVC.TwitterBootstrap Demonstrator</content:title>
+<content:head>
+  
+</content:head>
+<content:main>
+<h1>FubuMVC.TwitterBootstrap Demos</h1>
+  <br></br>
+  !{Model.Outline.Style("font-size", "large")}
+
+</content:main>
