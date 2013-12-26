@@ -1,4 +1,4 @@
-namespace TwitterBootstrapDemonstrator.Modals
+namespace BootstrapDemonstrator.Modals
 {
     public class ModalEndpoint
     {

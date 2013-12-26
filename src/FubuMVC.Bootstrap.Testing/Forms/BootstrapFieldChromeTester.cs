@@ -1,9 +1,9 @@
-﻿using FubuMVC.TwitterBootstrap.Forms;
+﻿using FubuMVC.Bootstrap.Forms;
 using FubuTestingSupport;
 using HtmlTags;
 using NUnit.Framework;
 
-namespace FubuMVC.TwitterBootstrap.Testing.Forms
+namespace FubuMVC.Bootstrap.Testing.Forms
 {
     [TestFixture]
     public class BootstrapFieldChromeTester

@@ -1,4 +1,4 @@
-﻿namespace TwitterBootstrapDemonstrator.Forms
+﻿namespace BootstrapDemonstrator.Forms
 {
     public class FormEndpoint
     {

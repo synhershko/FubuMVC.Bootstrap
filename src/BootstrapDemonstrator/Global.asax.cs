@@ -4,7 +4,7 @@ using FubuMVC.Core;
 using FubuMVC.StructureMap;
 using StructureMap;
 
-namespace TwitterBootstrapDemonstrator
+namespace BootstrapDemonstrator
 {
     public class Global : HttpApplication
     {

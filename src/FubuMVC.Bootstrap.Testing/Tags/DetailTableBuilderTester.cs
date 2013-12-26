@@ -1,12 +1,12 @@
 using FubuCore;
 using FubuMVC.Core.UI;
-using FubuMVC.TwitterBootstrap.Tags;
+using FubuMVC.Bootstrap.Tags;
 using HtmlTags;
 using NUnit.Framework;
 using System.Linq;
 using FubuTestingSupport;
 
-namespace FubuMVC.TwitterBootstrap.Testing.Tags
+namespace FubuMVC.Bootstrap.Testing.Tags
 {
     [TestFixture]
     public class DetailTableBuilderTester

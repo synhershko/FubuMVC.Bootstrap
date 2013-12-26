@@ -8,8 +8,8 @@
     <ProjectGuid>{EA81872F-4C9B-44CE-AFBE-E444D1AA6FD7}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>FubuMVC.TwitterBootstrap.Testing</RootNamespace>
-    <AssemblyName>FubuMVC.TwitterBootstrap.Testing</AssemblyName>
+    <RootNamespace>FubuMVC.Bootstrap.Testing</RootNamespace>
+    <AssemblyName>FubuMVC.Bootstrap.Testing</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -97,7 +97,7 @@
   <ItemGroup>
     <ProjectReference Include="..\FubuMVC.Bootstrap\FubuMVC.Bootstrap.csproj">
       <Project>{F3A79B8C-C764-4B53-A75E-D18D29D14490}</Project>
-      <Name>FubuMVC.TwitterBootstrap</Name>
+      <Name>FubuMVC.Bootstrap</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

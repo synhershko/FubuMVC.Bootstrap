@@ -1,12 +1,12 @@
 using System.Diagnostics;
 using FubuMVC.Navigation;
-using FubuMVC.TwitterBootstrap.Menus;
+using FubuMVC.Bootstrap.Menus;
 using FubuTestingSupport;
 using HtmlTags;
 using NUnit.Framework;
 using System.Linq;
 
-namespace FubuMVC.TwitterBootstrap.Testing
+namespace FubuMVC.Bootstrap.Testing
 {
     [TestFixture]
     public class MenuItemTagTester

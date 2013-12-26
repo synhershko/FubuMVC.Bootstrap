@@ -1,7 +1,7 @@
 using System;
 using HtmlTags;
 
-namespace TwitterBootstrapDemonstrator
+namespace BootstrapDemonstrator
 {
     // SAMPLE: PartialInCollapsible
     public class HtmlTagPartialEndpoint

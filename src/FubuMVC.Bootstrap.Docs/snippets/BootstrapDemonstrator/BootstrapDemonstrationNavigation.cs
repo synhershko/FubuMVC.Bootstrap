@@ -1,15 +1,15 @@
 using FubuMVC.Navigation;
-using TwitterBootstrapDemonstrator.CollapsiblePartial;
-using TwitterBootstrapDemonstrator.Forms;
-using TwitterBootstrapDemonstrator.Modals;
-using TwitterBootstrapDemonstrator.Navigation;
+using BootstrapDemonstrator.CollapsiblePartial;
+using BootstrapDemonstrator.Forms;
+using BootstrapDemonstrator.Modals;
+using BootstrapDemonstrator.Navigation;
 
-namespace TwitterBootstrapDemonstrator
+namespace BootstrapDemonstrator
 {
     // SAMPLE: NavigationRegistry
-    public class TwitterBootstrapDemonstrationNavigation : NavigationRegistry
+    public class BootstrapDemonstrationNavigation : NavigationRegistry
     {
-        public TwitterBootstrapDemonstrationNavigation()
+        public BootstrapDemonstrationNavigation()
         {
             ForMenu("TwitterBootstrap");
 

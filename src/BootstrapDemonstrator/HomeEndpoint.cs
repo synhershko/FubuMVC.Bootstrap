@@ -3,7 +3,7 @@ using FubuMVC.Navigation;
 using HtmlTags;
 using System.Collections.Generic;
 
-namespace TwitterBootstrapDemonstrator
+namespace BootstrapDemonstrator
 {
     public class HomeEndpoint
     {

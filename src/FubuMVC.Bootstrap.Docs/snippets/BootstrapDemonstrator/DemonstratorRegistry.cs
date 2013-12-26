@@ -1,6 +1,6 @@
 using FubuMVC.Core;
 
-namespace TwitterBootstrapDemonstrator
+namespace BootstrapDemonstrator
 {
     // SAMPLE: FubuRegistry
     public class DemonstratorRegistry : FubuRegistry
@@ -10,7 +10,7 @@ namespace TwitterBootstrapDemonstrator
             Routes.HomeIs<HomeEndpoint>(x => x.Index());
 
             // Registering the navigation registry
-            Policies.Add<TwitterBootstrapDemonstrationNavigation>();
+            Policies.Add<BootstrapDemonstrationNavigation>();
         }
     }
     // ENDSAMPLE

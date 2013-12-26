@@ -1,8 +1,8 @@
 using System;
-using FubuMVC.TwitterBootstrap.Collapsibles;
+using FubuMVC.Bootstrap.Collapsibles;
 using HtmlTags;
 
-namespace TwitterBootstrapDemonstrator.CollapsiblePartial
+namespace BootstrapDemonstrator.CollapsiblePartial
 {
     public class CollapsiblePartialEndpoint
     {
