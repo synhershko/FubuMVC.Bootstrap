@@ -109,7 +109,7 @@
     <None Include="ripple.dependencies.config">
       <SubType>Designer</SubType>
     </None>
-    <None Include="twitterbootstrap.asset.config">
+    <None Include="bootstrap.asset.config">
       <SubType>Designer</SubType>
     </None>
   </ItemGroup>

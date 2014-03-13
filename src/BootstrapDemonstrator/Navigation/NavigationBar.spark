@@ -1,4 +1,4 @@
-﻿<viewdata model="TwitterBootstrapDemonstrator.Navigation.NavigationBarViewModel"/>
+﻿<viewdata model="BootstrapDemonstrator.Navigation.NavigationBarViewModel"/>
 <content:title>Navigation Bar Sample</content:title>
 <content:head>
   
@@ -19,7 +19,7 @@
   <br />
   <br />
   <br />
-  <p>After creating the NavigationRegistry above just to define this menu, I needed to register <code>TwitterBootstrapDemonstrationNavigation</code> with our FubuRegistry for the application:</p>
+  <p>After creating the NavigationRegistry above just to define this menu, I needed to register <code>BootstrapDemonstrationNavigation</code> with our FubuRegistry for the application:</p>
     !{this.CodeSnippet("FubuRegistry")}
   
 

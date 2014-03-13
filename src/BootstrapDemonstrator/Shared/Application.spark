@@ -8,7 +8,7 @@
 			<use content="title"/>
 		</title>
     <Stylesheet href="twitterdemo.css" />
-    <Script src="twitterbootstrap" />
+    <Script src="bootstrap" />
 		<use content="head"/>
 		<Styles />
 	</head>

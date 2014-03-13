@@ -1,7 +1,7 @@
 ﻿<use namespace="FubuCore" />
 ﻿<use namespace="FubuMVC.Core.UI" />
 ﻿<use namespace="FubuMVC.Core.Assets" />
-﻿<use namespace="FubuMVC.TwitterBootstrap" />
+﻿<use namespace="FubuMVC.Bootstrap" />
 <use namespace="System.Linq" />
-<use namespace="TwitterBootstrapDemonstrator" />
+<use namespace="BootstrapDemonstrator" />
 <use namespace="FubuMVC.CodeSnippets" />

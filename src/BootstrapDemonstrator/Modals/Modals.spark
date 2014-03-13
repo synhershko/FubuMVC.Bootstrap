@@ -1,5 +1,5 @@
-﻿<viewdata model="TwitterBootstrapDemonstrator.Modals.ModalViewModel"/>
-<use namespace="TwitterBootstrapDemonstrator.Modals" />
+﻿<viewdata model="BootstrapDemonstrator.Modals.ModalViewModel"/>
+<use namespace="BootstrapDemonstrator.Modals" />
 
 
 <content:title>Modal Expression Samples</content:title>

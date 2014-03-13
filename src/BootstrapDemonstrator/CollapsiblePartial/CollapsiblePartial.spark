@@ -1,6 +1,6 @@
-﻿<viewdata model="TwitterBootstrapDemonstrator.CollapsiblePartial.CollapsiblePartialViewModel"/>
-<use namespace="TwitterBootstrapDemonstrator.CollapsiblePartial" />
-<use namespace="TwitterBootstrapDemonstrator" />
+﻿<viewdata model="BootstrapDemonstrator.CollapsiblePartial.CollapsiblePartialViewModel"/>
+<use namespace="BootstrapDemonstrator.CollapsiblePartial" />
+<use namespace="BootstrapDemonstrator" />
 
 <content:title>Collapsible Partial Sample</content:title>
 <content:main>

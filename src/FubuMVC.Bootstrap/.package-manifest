@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <package xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Role>module</Role>
-  <Name>FubuMVC.TwitterBootstrap</Name>
-  <assembly>FubuMVC.TwitterBootstrap</assembly>
+  <Name>FubuMVC.Bootstrap</Name>
+  <assembly>FubuMVC.Bootstrap</assembly>
   <ContentFileSet Include="*.as*x;*.master;Content\*.*;*.config">
     <DeepSearch>true</DeepSearch>
   </ContentFileSet>

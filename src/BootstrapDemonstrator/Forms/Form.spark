@@ -1,5 +1,5 @@
-﻿<viewdata model="TwitterBootstrapDemonstrator.Forms.FormModel"/>
-<use namespace="TwitterBootstrapDemonstrator.Forms" />
+﻿<viewdata model="BootstrapDemonstrator.Forms.FormModel"/>
+<use namespace="BootstrapDemonstrator.Forms" />
 
 <content:title>Form Conventions Sample</content:title>
 <content:main>
